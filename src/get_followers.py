@@ -14,6 +14,7 @@ import requests
 GITHUB_GRAPHQL_API = "https://api.github.com/graphql"
 TARGET_USERNAME = "shubham-shipt"
 FOLLOWER_COUNT = 24
+
 README_PATH = Path("README.md")
 START_MARKER = "<!-- FOLLOWERS_START -->"
 END_MARKER = "<!-- FOLLOWERS_END -->"
@@ -24,7 +25,7 @@ def fetch_followers(token: str) -> list[dict[str, str]]:
     query = """
     query($username: String!, $count: Int!) {
       user(login: $username) {
-        followers(first: $count) {
+
           nodes {
             login
             avatarUrl
@@ -67,23 +68,7 @@ def fetch_followers(token: str) -> list[dict[str, str]]:
 
 def build_followers_block(followers: list[dict[str, str]]) -> str:
     """Build markdown/html block for followers section."""
-    lines = ["## ✨ Latest Followers", "", '<p align="center">', ""]
 
-    if not followers:
-        lines.extend(["No followers to display right now.", ""])
-    else:
-        for follower in followers:
-            lines.extend(
-                [
-                    f'<a href="{follower["url"]}" style="text-decoration:none; margin: 10px; display:inline-block; text-align:center;">',
-                    f'  <img src="{follower["avatarUrl"]}" width="70" style="border-radius:50%;" /><br/>',
-                    f'  {follower["login"]}',
-                    "</a>",
-                    "",
-                ]
-            )
-
-    lines.append("</p>")
     return "\n".join(lines).strip()
 
 
