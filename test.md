@@ -1,3 +1,5 @@
+
+
 <!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
 
 <table width="100%">
@@ -25,7 +27,7 @@ $ cat /etc/address | grep contact
 
 <td width="45%" align="center" valign="top">
 
-<img src="images/1.png" width="100%" />
+<img src="images/2.1.png" width="100%" />
 
 </td>
 </tr>
