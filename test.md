@@ -41,38 +41,41 @@ $ cat /etc/address | grep contact
 <tr>
 <td width="48%" valign="top">
 
-# Using Tech.
+<h2>🚀 Using Tech</h2>
 
 <br/>
 
-Python.svg
-C++.svg
-Bash.svg
-Kali-linux.svg
+<p align="left">
+  <img src="images/python.png" width="50" />
+  <img src="images/cpp.png" width="50" />
+  <img src="images/bash.png" width="50" />
+  <img src="images/kali-linux.png" width="50" />
+</p>
 
 </td>
 
 <td width="4%" align="center" valign="top">
 
-|
-|
-|
-|
-|
+
 
 </td>
 
 <td width="48%" valign="top">
 
-# Using Tools
+<h2>🛠 Using Tools</h2>
 
 <br/>
 
-Tool badges  Tool badges  Tool badges
-
-Tool badges  Tool badges  Tool badges
-
-Tool badges  Tool badges  Tools badges
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
 
 </td>
 </tr>
