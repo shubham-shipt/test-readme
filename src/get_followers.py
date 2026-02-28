@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update README.md with the latest GitHub followers using GraphQL."""
+"""Update README.md with the latest GitHub followers using the GitHub GraphQL API."""
 
 from __future__ import annotations
 
@@ -21,28 +21,28 @@ END_MARKER = "<!-- FOLLOWERS_END -->"
 
 
 def fetch_followers(token: str) -> list[dict[str, str]]:
-    """Fetch newest followers for the configured GitHub user."""
-    query = """
-    query($username: String!, $count: Int!) {
-      user(login: $username) {
-        followers(
-          first: $count
-          orderBy: { field: FOLLOWED_AT, direction: DESC }
-        ) {
-          nodes {
-            login
-            avatarUrl
-            url
-          }
-        }
-      }
-    }
+    """Fetch followers for the configured GitHub user.
+
+    Note: GitHub's `user.followers` field does not accept an `orderBy` argument.
+    The API returns a stable follower order; we request the first 24 records.
     """
+    query = (
+        "query($username: String!, $count: Int!) {"
+        " user(login: $username) {"
+        "   followers(first: $count) {"
+        "     nodes { login avatarUrl url }"
+        "   }"
+        " }"
+        "}"
+    )
 
     response = requests.post(
         GITHUB_GRAPHQL_API,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+        },
         json={"query": query, "variables": {"username": TARGET_USERNAME, "count": FOLLOWER_COUNT}},
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
         timeout=30,
     )
     response.raise_for_status()
@@ -55,55 +55,61 @@ def fetch_followers(token: str) -> list[dict[str, str]]:
     if not user_data:
         raise RuntimeError(f"GitHub user '{TARGET_USERNAME}' was not found.")
 
-    followers = user_data.get("followers", {}).get("nodes", [])
-    cleaned: list[dict[str, str]] = []
-    for follower in followers:
-        if follower and follower.get("login") and follower.get("avatarUrl") and follower.get("url"):
-            cleaned.append(
-                {
-                    "login": follower["login"],
-                    "avatarUrl": follower["avatarUrl"],
-                    "url": follower["url"],
-                }
-            )
-    return cleaned
+    follower_nodes = user_data.get("followers", {}).get("nodes", [])
+    followers: list[dict[str, str]] = []
+    for node in follower_nodes:
+        if not node:
+            continue
+
+        login = node.get("login")
+        avatar_url = node.get("avatarUrl")
+        profile_url = node.get("url")
+        if login and avatar_url and profile_url:
+            followers.append({"login": login, "avatarUrl": avatar_url, "url": profile_url})
+
+    return followers
 
 
 def build_followers_block(followers: list[dict[str, str]]) -> str:
-    """Build markdown/html block for followers section."""
-    lines = ["## ✨ Latest Followers", "", '<p align="center">', '<table align="center">']
+    """Build the markdown/html block for the followers section."""
+    lines: list[str] = [
+        "## ✨ Latest Followers",
+        "",
+        '<div align="center">',
+        '  <table align="center" style="border-collapse:separate; border-spacing:0;">',
+    ]
 
     if not followers:
         lines.extend(
             [
-                "  <tr>",
-                '    <td align="center">No followers to display right now.</td>',
-                "  </tr>",
+                "    <tr>",
+                '      <td align="center" style="padding:16px; color:#57606a;">No followers to display right now.</td>',
+                "    </tr>",
             ]
         )
     else:
-        for i in range(0, len(followers), FOLLOWERS_PER_ROW):
-            row_followers = followers[i : i + FOLLOWERS_PER_ROW]
-            lines.append("  <tr>")
-            for follower in row_followers:
+        for start in range(0, len(followers), FOLLOWERS_PER_ROW):
+            row = followers[start : start + FOLLOWERS_PER_ROW]
+            lines.append("    <tr>")
+            for follower in row:
                 lines.extend(
                     [
-                        '    <td align="center" style="padding: 12px;">',
-                        f'      <a href="{follower["url"]}" style="text-decoration:none; color:inherit;">',
-                        f'        <img src="{follower["avatarUrl"]}" width="80" style="border-radius:50%;" /><br/>',
-                        f'        {follower["login"]}',
-                        "      </a>",
-                        "    </td>",
+                        '      <td align="center" style="padding:12px 10px; min-width:110px;">',
+                        f'        <a href="{follower["url"]}" style="text-decoration:none; color:#24292f;">',
+                        f'          <img src="{follower["avatarUrl"]}" width="80" style="border-radius:50%;" /><br/>',
+                        f'          <span style="display:inline-block; margin-top:8px; font-size:14px;">{follower["login"]}</span>',
+                        "        </a>",
+                        "      </td>",
                     ]
                 )
-            lines.append("  </tr>")
+            lines.append("    </tr>")
 
-    lines.extend(["</table>", "</p>"])
+    lines.extend(["  </table>", "</div>"])
     return "\n".join(lines).strip()
 
 
 def replace_followers_section(readme_text: str, followers_block: str) -> str:
-    """Replace content between markers in README."""
+    """Replace content between README marker comments."""
     if START_MARKER not in readme_text or END_MARKER not in readme_text:
         raise RuntimeError(f"README must contain both {START_MARKER} and {END_MARKER} markers.")
 
@@ -117,15 +123,15 @@ def replace_followers_section(readme_text: str, followers_block: str) -> str:
 
 
 def safe_write(path: Path, content: str) -> None:
-    """Write file content atomically."""
+    """Write file content atomically to avoid partial writes."""
     with NamedTemporaryFile("w", encoding="utf-8", delete=False, dir=path.parent) as temp_file:
         temp_file.write(content)
         temp_name = temp_file.name
-
     os.replace(temp_name, path)
 
 
 def main() -> int:
+    """Run follower fetch and README update flow."""
     token = os.getenv("GH_TOKEN")
     if not token:
         print("Error: GH_TOKEN environment variable is required.", file=sys.stderr)
@@ -138,6 +144,7 @@ def main() -> int:
     try:
         followers = fetch_followers(token)
         followers_block = build_followers_block(followers)
+
         current_readme = README_PATH.read_text(encoding="utf-8")
         updated_readme = replace_followers_section(current_readme, followers_block)
 
