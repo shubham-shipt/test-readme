@@ -25,7 +25,7 @@ $ cat /etc/address | grep contact
 
 <td width="45%" align="center" valign="top">
 
-<img src="main-shubham.png" width="100%" />
+<img src="images/1.png" width="100%" />
 
 </td>
 </tr>
