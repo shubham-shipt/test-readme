@@ -2,11 +2,17 @@
 
 <!-- FOLLOWERS_START -->
 
-## ✨Followers
+## ✨ Latest Followers
 
 <div align="center">
   <table align="center" style="border-collapse:separate; border-spacing:0;">
     <tr>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/negan-singh" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/233222179?u=467c281e7e19295692e20fe2ce7e06815e2f7d07&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">negan-singh</span>
+        </a>
+      </td>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/Olivia-35" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/230526455?v=4" width="80" style="border-radius:50%;" /><br/>
@@ -37,14 +43,14 @@
           <span style="display:inline-block; margin-top:8px; font-size:14px;">ggl13</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/yhashemi686-droid" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/229957255?v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">yhashemi686-droid</span>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/IshaJaswal04" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/217732182?u=a39d4ea57ff110a529a001cf044e513f97b0748c&v=4" width="80" style="border-radius:50%;" /><br/>
@@ -75,6 +81,8 @@
           <span style="display:inline-block; margin-top:8px; font-size:14px;">suvojeet-sengupta</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/shubh4m-singh" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/188552598?u=a36adf0563756fdce84a9b55a3470ac8665dc759&v=4" width="80" style="border-radius:50%;" /><br/>
