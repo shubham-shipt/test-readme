@@ -1,4 +1,4 @@
-
+<img src="images/header_pt.svg"></img>
 
 <!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
 
@@ -27,7 +27,7 @@ $ cat /etc/address | grep contact
 
 <td width="45%" align="center" valign="top">
 
-<img src="images/2.1.png" width="100%" />
+<img src="images/4.png" width="100%" />
 
 </td>
 </tr>
