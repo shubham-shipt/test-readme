@@ -23,18 +23,22 @@ END_MARKER = "<!-- FOLLOWERS_END -->"
 def fetch_followers(token: str) -> list[dict[str, str]]:
     """Fetch newest followers for the configured GitHub user."""
     query = """
-    query($username: String!, $count: Int!) {
-      user(login: $username) {
-
-          nodes {
-            login
-            avatarUrl
-            url
-          }
-        }
+    query = """
+query($username: String!, $count: Int!) {
+  user(login: $username) {
+    followers(
+      first: $count,
+      orderBy: { field: FOLLOWED_AT, direction: DESC }
+    ) {
+      nodes {
+        login
+        avatarUrl
+        url
       }
     }
-    """
+  }
+}
+"""
 
     response = requests.post(
         GITHUB_GRAPHQL_API,
