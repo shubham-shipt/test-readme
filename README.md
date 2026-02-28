@@ -3,6 +3,7 @@
 This repository automatically updates the README with the latest followers of the GitHub user **shubham-shipt** using a scheduled GitHub Actions workflow and the GitHub GraphQL API.
 
 <!-- FOLLOWERS_START -->
+
 <!-- FOLLOWERS_END -->
 
 ## Setup Note
