@@ -14,6 +14,7 @@ import requests
 GITHUB_GRAPHQL_API = "https://api.github.com/graphql"
 TARGET_USERNAME = "shubham-shipt"
 FOLLOWER_COUNT = 24
+FOLLOWERS_PER_ROW = 6
 README_PATH = Path("README.md")
 START_MARKER = "<!-- FOLLOWERS_START -->"
 END_MARKER = "<!-- FOLLOWERS_END -->"
@@ -24,7 +25,10 @@ def fetch_followers(token: str) -> list[dict[str, str]]:
     query = """
     query($username: String!, $count: Int!) {
       user(login: $username) {
-        followers(first: $count) {
+        followers(
+          first: $count
+          orderBy: { field: FOLLOWED_AT, direction: DESC }
+        ) {
           nodes {
             login
             avatarUrl
@@ -67,23 +71,34 @@ def fetch_followers(token: str) -> list[dict[str, str]]:
 
 def build_followers_block(followers: list[dict[str, str]]) -> str:
     """Build markdown/html block for followers section."""
-    lines = ["## ✨ Latest Followers", "", '<p align="center">', ""]
+    lines = ["## ✨ Latest Followers", "", '<p align="center">', '<table align="center">']
 
     if not followers:
-        lines.extend(["No followers to display right now.", ""])
+        lines.extend(
+            [
+                "  <tr>",
+                '    <td align="center">No followers to display right now.</td>',
+                "  </tr>",
+            ]
+        )
     else:
-        for follower in followers:
-            lines.extend(
-                [
-                    f'<a href="{follower["url"]}" style="text-decoration:none; margin: 10px; display:inline-block; text-align:center;">',
-                    f'  <img src="{follower["avatarUrl"]}" width="70" style="border-radius:50%;" /><br/>',
-                    f'  {follower["login"]}',
-                    "</a>",
-                    "",
-                ]
-            )
+        for i in range(0, len(followers), FOLLOWERS_PER_ROW):
+            row_followers = followers[i : i + FOLLOWERS_PER_ROW]
+            lines.append("  <tr>")
+            for follower in row_followers:
+                lines.extend(
+                    [
+                        '    <td align="center" style="padding: 12px;">',
+                        f'      <a href="{follower["url"]}" style="text-decoration:none; color:inherit;">',
+                        f'        <img src="{follower["avatarUrl"]}" width="80" style="border-radius:50%;" /><br/>',
+                        f'        {follower["login"]}',
+                        "      </a>",
+                        "    </td>",
+                    ]
+                )
+            lines.append("  </tr>")
 
-    lines.append("</p>")
+    lines.extend(["</table>", "</p>"])
     return "\n".join(lines).strip()
 
 
