@@ -1,4 +1,8 @@
-<!-- ================= TERMINAL SECTION ================= -->
+<!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```bash
 $ whoami
@@ -16,6 +20,16 @@ $ ps aux | grep active-projects
 $ cat /etc/address | grep contact
 > Location: Noida | Email: your@email.com
 ```
+
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<img src="main-shubham.png" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -109,3 +123,4 @@ Tool badges  Tool badges  Tools badges
 <!-- FOLLOWERS_END -->
 
 </div>
+
