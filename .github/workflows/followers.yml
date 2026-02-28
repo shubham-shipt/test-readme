@@ -2,7 +2,7 @@ name: Update Latest Followers
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
