@@ -56,7 +56,7 @@
 
 <td width="50%" valign="top">
 
-<h2>🚀 Using Tech</h2>
+<h2>🚀Tech Stack</h2>
 
 <p align="left">
 <img src="images/p.png" width="65"/>
