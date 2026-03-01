@@ -1,6 +1,11 @@
 <img src="images/header_pt.svg"></img>
 
 <!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Shubham;Cybersecurity+Enthusiast;Software+Developer;C%2FC%2B%2B+Programmer;Python-Coder+%26+Web+Developer;CTF+Player+%7C+Ethical+Hacking+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 <table width="100%">
 <tr>
