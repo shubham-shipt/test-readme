@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-# ✨ Latest Followers
+
 <!-- FOLLOWERS_START -->
 
 ## ✨ Latest Followers
