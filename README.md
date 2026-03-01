@@ -1,8 +1,8 @@
 <img src="images/header_en.svg"></img>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Shubham;Cybersecurity+Enthusiast;Software+Developer;C%2FC%2B%2B+Programmer;Python-Coder+%26+Web+Developer;CTF+Player+%7C+Ethical+Hacking+Learner" alt="Typing SVG" />
-  </a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I+am+Shubham+Singh;Web+Developer+%26+SEO+Guy;Cybersecurity+Enthusiast;AI+User" alt="Typing SVG" />
+</a>
 </p>
 
 <table width="100%">
@@ -78,7 +78,6 @@
 <!-- BADGES -->
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
@@ -99,15 +98,12 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=flat&logo=adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Hardware_Repair-555555?style=flat&logo=ifixit&logoColor=white"/>
-<img src="https://img.shields.io/badge/APK_Tools-34A853?style=flat&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat&logo=android&logoColor=white"/>
 
 </p>
@@ -217,9 +213,11 @@
 <!-- FOLLOWERS_END -->
 </div>
 
-<!-- ================= PROJECTS SECTION ================= -->
-<h2 align="center">Projects</h2>
-<hr width="80%">
+
+<!-- ===================== PROJECTS SECTION ===================== -->
+
+<h2 align="center">Repos</h2>
+
 <br>
 
 <table width="80%" align="center">
@@ -229,55 +227,43 @@
 <tr>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project1.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/Python-Mini-Projects">
+<img src="images/repo/1.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 1</b>
+<b>Python Mini Projects</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Collection of small practical Python projects.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project2.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/keylog-v12">
+<img src="images/repo/2.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 2</b>
+<b>Keylog v12</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Python keylogger with GUI interface.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project3.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Cyber-Library/">
+<img src="images/repo/3.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 3</b>
+<b>Cyber Library</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Cybersecurity eBook collection website.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project4.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/DailyDesk/">
+<img src="images/repo/4.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 4</b>
+<b>DailyDesk</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Simple task & management system.</sub>
 </td>
 
 </tr>
@@ -287,56 +273,64 @@
 <tr>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project5.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Shineword/">
+<img src="images/repo/5.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 5</b>
+<b>ShineWord</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>3D glowing particle name effect.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project6.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Kali-Wall.sh/">
+<img src="images/repo/6.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 6</b>
+<b>Kali Wall</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Download Kali Linux wallpapers.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project7.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Tor-Project/">
+<img src="images/repo/7.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 7</b>
+<b>Tor Project</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Tor browser download utility site.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project8.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
+<img src="images/repo/8.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 8</b>
+<b>CS2 MVP AutoChat</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Auto chat tool for CS2 gameplay.</sub>
 </td>
+
+</tr>
+
+<!-- ROW 3 -->
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://shubham-shipt.github.io/Free-Fire-Collection-D/">
+<img src="images/repo/9.png" width="120" height="120" style="border-radius:15px;">
+</a>
+<br><br>
+<b>Free Fire Collection</b>
+<br>
+<sub>Free Fire themed collection website.</sub>
+</td>
+
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
 
 </tr>
 
@@ -345,17 +339,69 @@
 <br><br>
 
 <!-- ===================== END PROJECTS ===================== -->
-
-# Profile Stats Badges
-
-<br/>
+## ✨ Dashbord
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-shipt&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-shipt&theme=github-dark-blue&background=181820&stroke=A259FF&ring=75C850&fire=F97EAE&currStreakNum=A259FF&sideNums=75C850&currStreakLabel=A259FF&sideLabels=75C850&dates=FFFFFF&border_radius=10" width="70%" />
 </p>
 
-<br/><br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-shipt&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-shipt&theme=github_dark" alt="Arsenal by Language" />
+</div>
 
-<!-- ================= FOLLOWERS DARK SECTION ================= -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-shipt&theme=github_dark" alt="Core Development Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-shipt&theme=github_dark" alt="Development Metrics" />
+</div>
 
-<div style="background-color:#0d1117;padding:20px;border-radius:6px;">
+<div align="center">
+  <a href="https://github.com/shubham-shipt">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-shipt&theme=github_dark" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shubham-shipt&limit=5&theme=github_dark&title_color=A259FF&text_color=FFFFFF&bg_color=181820&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
+</div>
+
+
+
+<h2 align="center">Connect With Me</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="mailto:shubscript213@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/shubham-singh-407b5a330/">
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://instagram.com/om_singh_213">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/shubham-shipt/">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="60"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
