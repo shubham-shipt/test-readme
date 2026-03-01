@@ -1,0 +1,27 @@
+name: Update Active Days Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - run: python src/update_day.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add test.md
+          git commit -m "Auto update Active Days badge" || echo "No changes"
+          git push
