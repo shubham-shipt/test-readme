@@ -49,7 +49,7 @@ $ cat /etc/address | grep contact
   <img src="images/python.png" width="50" />
   <img src="images/Linux.png" width="50" />
   <img src="images/Bash.png" width="50" />
-  <img src="images/kali-linux.png" width="50" />
+
 </p>
 
 </td>
