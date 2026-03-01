@@ -217,9 +217,11 @@
 <!-- FOLLOWERS_END -->
 </div>
 
-<!-- ================= PROJECTS SECTION ================= -->
+
+<!-- ===================== PROJECTS SECTION ===================== -->
+
 <h2 align="center">Projects</h2>
-<hr width="80%">
+
 <br>
 
 <table width="80%" align="center">
@@ -229,55 +231,43 @@
 <tr>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project1.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/Python-Mini-Projects">
+<img src="images/repo/1.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 1</b>
+<b>Python Mini Projects</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Collection of small practical Python projects.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project2.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/keylog-v12">
+<img src="images/repo/2.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 2</b>
+<b>Keylog v12</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Python keylogger with GUI interface.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project3.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Cyber-Library/">
+<img src="images/repo/3.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 3</b>
+<b>Cyber Library</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Cybersecurity eBook collection website.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project4.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/DailyDesk/">
+<img src="images/repo/4.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 4</b>
+<b>DailyDesk</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Simple task & management system.</sub>
 </td>
 
 </tr>
@@ -287,56 +277,64 @@
 <tr>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project5.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Shineword/">
+<img src="images/repo/5.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 5</b>
+<b>ShineWord</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>3D glowing particle name effect.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project6.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Kali-Wall.sh/">
+<img src="images/repo/6.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 6</b>
+<b>Kali Wall</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Download Kali Linux wallpapers.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project7.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://shubham-shipt.github.io/Tor-Project/">
+<img src="images/repo/7.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 7</b>
+<b>Tor Project</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Tor browser download utility site.</sub>
 </td>
 
 <td align="center" width="25%">
-
-<a href="">
-<img src="images/project8.png" width="120" height="120" style="border-radius:15px;">
+<a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
+<img src="images/repo/8.png" width="120" height="120" style="border-radius:15px;">
 </a>
-
 <br><br>
-<b>Project Name 8</b>
+<b>CS2 MVP AutoChat</b>
 <br>
-<sub>Short one line overview of the project.</sub>
-
+<sub>Auto chat tool for CS2 gameplay.</sub>
 </td>
+
+</tr>
+
+<!-- ROW 3 -->
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://shubham-shipt.github.io/Free-Fire-Collection-D/">
+<img src="images/repo/9.png" width="120" height="120" style="border-radius:15px;">
+</a>
+<br><br>
+<b>Free Fire Collection</b>
+<br>
+<sub>Free Fire themed collection website.</sub>
+</td>
+
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
 
 </tr>
 
