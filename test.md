@@ -8,21 +8,18 @@
 
 ```bash
 $ whoami
-> Shubham-Shipt : Cybersecurity Enthusiast | Web Developer | Passionate about Cyber Systems
+> Shubham-Shipt — Cybersecurity Enthusiast & Web Developer building secure systems and practical
+tools.
 
-$ ./skills.sh --list-top
-> C/C++ | Python | JavaScript | Social Engineering | Web Development
+$ profile-stats --summary
 
-$ shubham --a
-> OS: Kali Linux (amd64) | Alias: CyberOS
-
-$ ps aux | grep active-projects
-> ACTIVE: Cyber-Library | Portfolio | Python-Mini-Projects | Keylog-v6
-
-$ cat /etc/address | grep contact
-> Location: Noida | Email: your@email.com
 ```
 
+<img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20Views&style=flat" />
+<img src="https://img.shields.io/github/followers/shubham-shipt?style=flat&label=Followers" />
+<img src="https://img.shields.io/github/stars/shubham-shipt?style=flat&label=Total%20Stars" />
+<img src="https://img.shields.io/badge/Active%20Days-60/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
+<img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
 </td>
 
 <td width="45%" align="center" valign="top">
@@ -34,56 +31,79 @@ $ cat /etc/address | grep contact
 </table>
 
 <br/>
-
-<!-- ================= USING TECH + USING TOOLS (SIDE BY SIDE WITH DIVIDER) ================= -->
+<!-- ================= USING TECH + USING TOOLS ================= -->
 
 <table width="100%">
 <tr>
-<td width="48%" valign="top">
+
+<!-- ================= LEFT SIDE : USING TECH ================= -->
+
+<td width="50%" valign="top">
 
 <h2>🚀 Using Tech</h2>
 
-<br/>
-
 <p align="left">
-  <img src="images/python.png" width="50" />
-  <img src="images/Linux.png" width="50" />
-  <img src="images/Bash.png" width="50" />
-
+<img src="images/p.png" width="65"/>
+<img src="images/cpp.png" width="65"/>
+<img src="images/bash.png" width="75"/>
+<img src="images/html.png" width="75"/>
+<img src="images/sql.png" width="75"/>
+<img src="images/git.png" width="75"/>
 </p>
 
 </td>
 
-<td width="4%" align="center" valign="top">
+<!-- ================= RIGHT SIDE : TOOLS ================= -->
 
+<td width="50%" valign="top">
 
+<h2 align="center">⚙️ TOOLS & PLATFORMS</h2>
 
-</td>
+<!-- BADGES -->
+<p align="center">
 
-<td width="48%" valign="top">
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 
-<h2>🛠 Using Tools</h2>
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=flat&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=flat&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hardware_Repair-555555?style=flat&logo=ifixit&logoColor=white"/>
+<img src="https://img.shields.io/badge/APK_Tools-34A853?style=flat&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=flat&logo=android&logoColor=white"/>
+
 </p>
 
+<!-- IMAGE INSIDE TOOLS COLUMN -->
+
+
 </td>
+
 </tr>
 </table>
 
-<br/><br/>
-
-<!-- ================= PROFILE STATS BADGES ================= -->
 
 # Profile Stats Badges
 
