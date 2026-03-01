@@ -160,13 +160,13 @@
       </td>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/morgan-org" style="text-decoration:none; color:#24292f;">
-          <img src="https://avatars.githubusercontent.com/u/230461168?v=4" width="80" style="border-radius:50%;" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/230461168?u=9f29187a68b21b01665b3e533407d2464b21ce2e&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">morgan-org</span>
         </a>
       </td>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/ggl13" style="text-decoration:none; color:#24292f;">
-          <img src="https://avatars.githubusercontent.com/u/230457785?v=4" width="80" style="border-radius:50%;" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/230457785?u=2e3829fac1fdf0a43ad4fcd0174af6163af2104f&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">ggl13</span>
         </a>
       </td>
