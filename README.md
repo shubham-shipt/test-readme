@@ -128,7 +128,7 @@
 
 <!-- FOLLOWERS_START -->
 
-## ✨ Latest Followers
+## ✨  Followers
 
 <div align="center">
   <table align="center" style="border-collapse:separate; border-spacing:0;">
