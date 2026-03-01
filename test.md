@@ -1,4 +1,4 @@
-<img src="images/header_pt.svg"></img>
+<img src="images/header_en.svg"></img>
 
 <!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
 <p align="center">
