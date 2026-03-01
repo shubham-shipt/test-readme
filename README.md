@@ -125,6 +125,19 @@
 </tr>
 </table>
 
+# ✨ Latest Followers
+
+<br/>
+
+<!-- FOLLOWERS_START -->
+
+<!-- Dynamic follower grid will appear here exactly like your design -->
+
+<!-- FOLLOWERS_END -->
+
+</div>
+
+
 
 # Profile Stats Badges
 
@@ -158,15 +171,4 @@
 
 <div style="background-color:#0d1117;padding:20px;border-radius:6px;">
 
-# ✨ Latest Followers
-
-<br/>
-
-<!-- FOLLOWERS_START -->
-
-<!-- Dynamic follower grid will appear here exactly like your design -->
-
-<!-- FOLLOWERS_END -->
-
-</div>
 
