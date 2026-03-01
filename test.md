@@ -1,6 +1,4 @@
 <img src="images/header_en.svg"></img>
-
-<!-- ================= TERMINAL + RIGHT IMAGE SECTION ================= -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Shubham;Cybersecurity+Enthusiast;Software+Developer;C%2FC%2B%2B+Programmer;Python-Coder+%26+Web+Developer;CTF+Player+%7C+Ethical+Hacking+Learner" alt="Typing SVG" />
@@ -12,28 +10,25 @@
 <td width="55%" valign="top">
 
 ```bash
-> Shubham-Singh — ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+> Shubham-Singh — ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ
-⠀⠀⠀⢠⣾⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣰⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢰⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⣀⣀⣤⣤⣶⣾⣿⣿⣿⡷
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀
-⣿⣿⣿⡇⠀⡾⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀
-⣿⣿⣿⣧⡀⠁⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⢹⠉⠙⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⠀⣀⣼⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠀⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⠿⠋⢃⠈⠢⡁⠒⠄⡀⠈⠁⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⠟⠁⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠈⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣠⣤⣶⣞⡛⠿⠭⣷⡦⢬⣟⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⡾⣯⡙⠳⣍⠳⢍⡙⠲⠤⣍⠓⠦⣝⣮⣉⠻⣿⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡿⢿⣷⣯⣷⣮⣿⣶⣽⠷⠶⠬⠿⠷⠟⠻⠟⠳⠿⢷⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⣸⣁⣀⣈⣛⣷⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀
+⠀⣸⣯⣁⣤⣤⣀⠈⢧⠘⣆⢀⣠⠤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀
+⠀⢙⡟⡛⣿⣿⣿⢷⡾⠀⢿⣿⣏⣳⣾⡆⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀
+⢀⡞⠸⠀⠉⠉⠁⠀⠀⣠⣼⣿⣿⠀⣽⡇⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀
+⣼⡀⣀⡐⢦⢀⣀⠀⣴⣿⣿⡏⢿⣶⣟⣀⣀⣀⣀⣀⣤⣤⠞⠁⠀⠀⠀⠀⠀⠀
+⠀⣿⣿⣿⣿⣾⣿⣿⣿⣾⡻⠷⣝⣿⡌⠉⠉⠁⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⢻⣿⣿⣿⣿⡟⣿⣟⠻⣿⡿⢿⡇⠀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢠⣿⢿⣼⣿⣿⠿⣏⣹⡃⢹⣯⡿⠀⠀⠀⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣽⣿⣿⢿⠹⣿⣇⠿⣾⣷⣼⠟⠁⠀⠀⠀⢀⣠⣴⣶⣾⣷⣶⣄⡀⠀⠀⠀⠀
+⠀⢿⣾⡟⢺⣧⣏⣿⡷⢻⠅⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀
+⠀⠀⠙⠛⠓⠛⠋⣡⣿⣬⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠛
+⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋⠉⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠸⡿⠿⠿⠿⠿⠿⠿⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 <img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20Views&style=flat" />
@@ -45,7 +40,7 @@
 
 <td width="45%" align="center" valign="top">
 
-<img src="images/4.png" width="100%" />
+<img src="images/4.png" width="70%" />
 
 </td>
 </tr>
@@ -126,6 +121,209 @@
 </table>
 
 
+<!-- FOLLOWERS_START -->
+
+## ✨ Latest Followers
+
+<div align="center">
+  <table align="center" style="border-collapse:separate; border-spacing:0;">
+    <tr>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/negan-singh" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/233222179?u=467c281e7e19295692e20fe2ce7e06815e2f7d07&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">negan-singh</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/Olivia-35" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/230526455?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">Olivia-35</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/Cross565" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/230525053?u=ae3e6d67c7f6b6989331a58af7ee4edcf5ab348a&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">Cross565</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/Priya-tanue" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/230461677?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">Priya-tanue</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/morgan-org" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/230461168?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">morgan-org</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/ggl13" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/230457785?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">ggl13</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/yhashemi686-droid" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/229957255?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">yhashemi686-droid</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/IshaJaswal04" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/217732182?u=a39d4ea57ff110a529a001cf044e513f97b0748c&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">IshaJaswal04</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/PriyanshuJayant" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/126499556?u=40c9ce557bb016c50f46bfad08e0418f5e34a071&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">PriyanshuJayant</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/seo-shu" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/220474657?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">seo-shu</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/Ritik07777" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/204752596?u=a1144abb7638fa71df08ee77a86cbb25f1a54d73&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">Ritik07777</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/suvojeet-sengupta" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/107928380?u=6e6351e1a09a6c473133a46e28f4b005a2345a57&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">suvojeet-sengupta</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/shubh4m-singh" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/188552598?u=a36adf0563756fdce84a9b55a3470ac8665dc759&v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">shubh4m-singh</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- FOLLOWERS_END -->
+</div>
+
+
+
+
+<!-- ================= PROJECTS SECTION ================= -->
+
+# Projects
+
+<hr/>
+
+<table width="100%">
+<tr>
+
+<td align="center" width="25%" style="padding:15px;">
+
+<a href="https://github.com/yourusername/web-scanner">
+<img src="images/project1.png" width="120"
+style="border-radius:12px;" />
+</a>
+
+<br/><br/>
+
+<b style="color:#00ff99;">Web Scanner</b>
+<br/>
+<sub style="color:#bbbbbb;">
+Simple vulnerability scanner built in Python.
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:15px;">
+
+<a href="https://github.com/yourusername/login-ui">
+<img src="images/project2.png" width="120"
+style="border-radius:12px;" />
+</a>
+
+<br/><br/>
+
+<b style="color:#ffcc00;">Login UI Clone</b>
+<br/>
+<sub style="color:#bbbbbb;">
+Modern 2026 responsive login page.
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:15px;">
+
+<a href="https://github.com/yourusername/password-tool">
+<img src="images/project3.png" width="120"
+style="border-radius:12px;" />
+</a>
+
+<br/><br/>
+
+<b style="color:#ff4d6d;">Password Tool</b>
+<br/>
+<sub style="color:#bbbbbb;">
+Advanced password strength analyzer.
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:15px;">
+
+<a href="https://github.com/yourusername/recon-tool">
+<img src="images/project4.png" width="120"
+style="border-radius:12px;" />
+</a>
+
+<br/><br/>
+
+<b style="color:#00bfff;">Recon Tool</b>
+<br/>
+<sub style="color:#bbbbbb;">
+Automated recon & info gathering tool.
+</sub>
+
+</td>
+
+</tr>
+
+<!-- NEXT ROW START -->
+
+<tr>
+
+<td align="center" width="25%" style="padding:15px;">
+
+<a href="https://github.com/yourusername/another-project">
+<img src="images/project5.png" width="120"
+style="border-radius:12px;" />
+</a>
+
+<br/><br/>
+
+<b style="color:#ff66ff;">Exploit Helper</b>
+<br/>
+<sub style="color:#bbbbbb;">
+Payload testing & automation script.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
 # Profile Stats Badges
 
 <br/>
@@ -136,37 +334,6 @@
 
 <br/><br/>
 
-<!-- ================= PROJECTS SECTION ================= -->
-
-# Projects
-
-<hr/>
-
-<table width="100%">
-<tr>
-<td height="180" align="center" width="20%"> </td>
-<td height="180" align="center" width="20%"> </td>
-<td height="180" align="center" width="20%"> </td>
-<td height="180" align="center" width="20%"> </td>
-<td height="180" align="center" width="20%"> </td>
-</tr>
-</table>
-
-<br/><br/>
-
 <!-- ================= FOLLOWERS DARK SECTION ================= -->
 
 <div style="background-color:#0d1117;padding:20px;border-radius:6px;">
-
-# ✨ Latest Followers
-
-<br/>
-
-<!-- FOLLOWERS_START -->
-
-<!-- Dynamic follower grid will appear here exactly like your design -->
-
-<!-- FOLLOWERS_END -->
-
-</div>
-
