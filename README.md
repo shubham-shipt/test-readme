@@ -125,13 +125,8 @@
 </tr>
 </table>
 
-# ✨ Latest Followers
-
+# ✨ Followers
 <br/>
-
-<!-- FOLLOWERS_START -->
-
-## ✨ Latest Followers
 
 <div align="center">
   <table align="center" style="border-collapse:separate; border-spacing:0;">
