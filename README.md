@@ -65,6 +65,7 @@
 <img src="images/html.png" width="75"/>
 <img src="images/sql.png" width="75"/>
 <img src="images/git.png" width="75"/>
+<img src="images/wp.png" width="75"/>
 </p>
 
 </td>
