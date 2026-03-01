@@ -217,112 +217,134 @@
 <!-- FOLLOWERS_END -->
 </div>
 
-
-
-
 <!-- ================= PROJECTS SECTION ================= -->
+<h2 align="center">Projects</h2>
+<hr width="80%">
+<br>
 
-# Projects
+<table width="80%" align="center">
 
-<hr/>
+<!-- ROW 1 -->
 
-<table width="100%">
 <tr>
 
-<td align="center" width="25%" style="padding:15px;">
+<td align="center" width="25%">
 
-<a href="https://github.com/yourusername/web-scanner">
-<img src="images/project1.png" width="120"
-style="border-radius:12px;" />
+<a href="">
+<img src="images/project1.png" width="120" height="120" style="border-radius:15px;">
 </a>
 
-<br/><br/>
-
-<b style="color:#00ff99;">Web Scanner</b>
-<br/>
-<sub style="color:#bbbbbb;">
-Simple vulnerability scanner built in Python.
-</sub>
+<br><br>
+<b>Project Name 1</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
 </td>
 
-<td align="center" width="25%" style="padding:15px;">
+<td align="center" width="25%">
 
-<a href="https://github.com/yourusername/login-ui">
-<img src="images/project2.png" width="120"
-style="border-radius:12px;" />
+<a href="">
+<img src="images/project2.png" width="120" height="120" style="border-radius:15px;">
 </a>
 
-<br/><br/>
-
-<b style="color:#ffcc00;">Login UI Clone</b>
-<br/>
-<sub style="color:#bbbbbb;">
-Modern 2026 responsive login page.
-</sub>
+<br><br>
+<b>Project Name 2</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
 </td>
 
-<td align="center" width="25%" style="padding:15px;">
+<td align="center" width="25%">
 
-<a href="https://github.com/yourusername/password-tool">
-<img src="images/project3.png" width="120"
-style="border-radius:12px;" />
+<a href="">
+<img src="images/project3.png" width="120" height="120" style="border-radius:15px;">
 </a>
 
-<br/><br/>
-
-<b style="color:#ff4d6d;">Password Tool</b>
-<br/>
-<sub style="color:#bbbbbb;">
-Advanced password strength analyzer.
-</sub>
+<br><br>
+<b>Project Name 3</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
 </td>
 
-<td align="center" width="25%" style="padding:15px;">
+<td align="center" width="25%">
 
-<a href="https://github.com/yourusername/recon-tool">
-<img src="images/project4.png" width="120"
-style="border-radius:12px;" />
+<a href="">
+<img src="images/project4.png" width="120" height="120" style="border-radius:15px;">
 </a>
 
-<br/><br/>
-
-<b style="color:#00bfff;">Recon Tool</b>
-<br/>
-<sub style="color:#bbbbbb;">
-Automated recon & info gathering tool.
-</sub>
+<br><br>
+<b>Project Name 4</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
 </td>
 
 </tr>
 
-<!-- NEXT ROW START -->
+<!-- ROW 2 -->
 
 <tr>
 
-<td align="center" width="25%" style="padding:15px;">
+<td align="center" width="25%">
 
-<a href="https://github.com/yourusername/another-project">
-<img src="images/project5.png" width="120"
-style="border-radius:12px;" />
+<a href="">
+<img src="images/project5.png" width="120" height="120" style="border-radius:15px;">
 </a>
 
-<br/><br/>
+<br><br>
+<b>Project Name 5</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
-<b style="color:#ff66ff;">Exploit Helper</b>
-<br/>
-<sub style="color:#bbbbbb;">
-Payload testing & automation script.
-</sub>
+</td>
+
+<td align="center" width="25%">
+
+<a href="">
+<img src="images/project6.png" width="120" height="120" style="border-radius:15px;">
+</a>
+
+<br><br>
+<b>Project Name 6</b>
+<br>
+<sub>Short one line overview of the project.</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="">
+<img src="images/project7.png" width="120" height="120" style="border-radius:15px;">
+</a>
+
+<br><br>
+<b>Project Name 7</b>
+<br>
+<sub>Short one line overview of the project.</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="">
+<img src="images/project8.png" width="120" height="120" style="border-radius:15px;">
+</a>
+
+<br><br>
+<b>Project Name 8</b>
+<br>
+<sub>Short one line overview of the project.</sub>
 
 </td>
 
 </tr>
 
 </table>
+
+<br><br>
+
+<!-- ===================== END PROJECTS ===================== -->
 
 # Profile Stats Badges
 
